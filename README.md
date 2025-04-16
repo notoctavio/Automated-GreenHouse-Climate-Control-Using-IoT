@@ -89,10 +89,6 @@ The application accepts CSV files with the following columns:
 - `N`, `P`, `K`: Optional nutrient levels
 
 
-## 📈 Sample Reports
-
-![Report Example](assets/report_example.png)
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
