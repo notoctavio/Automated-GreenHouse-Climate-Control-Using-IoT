@@ -2,8 +2,6 @@
 
 A sophisticated Python-based application for monitoring and controlling greenhouse environments through real-time data analysis and automated control systems.
 
-![Greenhouse Control System](assets/greenhouse_dashboard.png)
-
 ## 🚀 Features
 
 ### 📊 Data Management
