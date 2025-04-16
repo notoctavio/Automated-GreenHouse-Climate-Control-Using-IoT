@@ -2,8 +2,6 @@
 
 A sophisticated Python-based application for monitoring and controlling greenhouse environments through real-time data analysis and automated control systems.
 
-![Greenhouse Control System](assets/greenhouse_dashboard.png)
-
 ## 🚀 Features
 
 ### 📊 Data Management
@@ -90,34 +88,7 @@ The application accepts CSV files with the following columns:
 - `humidity`: Humidity percentage
 - `N`, `P`, `K`: Optional nutrient levels
 
-## 🔧 Configuration
-
-The system can be configured through:
-- Control thresholds
-- Hysteresis values
-- Report templates
-- Visualization preferences
-
-## 📊 Example Dashboard
-
-![Dashboard Example](assets/dashboard_example.png)
-
-## 📈 Sample Reports
-
-![Report Example](assets/report_example.png)
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Support
-
-For support, please open an issue in the repository or contact the development team.
-
----
-
-Made with ❤️ by the Greenhouse Control Team
